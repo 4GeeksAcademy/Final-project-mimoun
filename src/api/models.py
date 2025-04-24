@@ -135,3 +135,4 @@ class Starship(db.Model):
             'length': self.length,
             'crew': self.crew
         }
+    
